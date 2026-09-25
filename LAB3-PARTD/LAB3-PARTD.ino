@@ -1,5 +1,5 @@
-const int REED_PIN = 25; 
-const int BUTTON_PIN = 26;
+const int REED_PIN = 18; 
+const int BUTTON_PIN = 19;
   
 void setup() { 
   Serial.begin(115200); 
